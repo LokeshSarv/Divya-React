@@ -1,0 +1,24 @@
+/* ================================
+============ 0 to 1365 ============
+================================ */
+
+@media only screen and (max-width: 1365px) {
+    .presentation-feature:before {
+        left: -90px;
+    }
+    .presentation-feature:after {
+        right: -90px;
+    }
+    .connect-engage::before {
+        left: -150px;
+    }
+    .connect-engage::after {
+        right: -150px;
+    }
+    .features:before {
+        left: -50px;
+    }
+    .features:after {
+        right: -50px;
+    }
+}
